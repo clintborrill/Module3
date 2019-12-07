@@ -6,7 +6,7 @@ body {
 }
 /* Header */
 #header-nav {
-    background-color: #f5e58c;
+    background-color: #ee940c;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 .navbar-foodtruck H1 {
     font-family: serif;
-    color: #27b19a;
+    color: #580a27;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
@@ -63,7 +63,7 @@ body {
     height: 1000px;
   }
   .menu-item {
-      background-color: #f1b050;
+      background-color: #ee940c;
       padding: 15px;
       margin: 10px, 10px, 10px, 10px; 
   }
