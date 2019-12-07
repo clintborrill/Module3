@@ -58,7 +58,10 @@ body {
   }  
 
   /* End of Header */
-
+  .page-content {
+    background-color: #580a27;
+    height: 1000px;
+  }
   .menu-item {
       background-color: #f1b050;
       padding: 15px;
