@@ -14,6 +14,9 @@ body {
     padding-top: 15px;
 
 }
+.navbar-right {
+    float: right;
+}
 .navbar-foodtruck H1 {
     font-family: serif;
     color: #557c3e;
