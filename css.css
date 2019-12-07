@@ -1,12 +1,12 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #61122f;
+    background-color: #580a27;
     font-family: "Oxygen", sans-serif;
 }
 /* Header */
 #header-nav {
-    background-color: #f6b319;
+    background-color: #f5e58c;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 .navbar-foodtruck H1 {
     font-family: serif;
-    color: #557c3e;
+    color: #27b19a;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
@@ -58,6 +58,12 @@ body {
   }  
 
   /* End of Header */
+
+  .menu-item {
+      background-color: #f1b050;
+      padding: 15px;
+      margin: 10px, 10px, 10px, 10px; 
+  }
 
 /* Device Sizing */
 /********** Large devices only **********/
