@@ -83,3 +83,7 @@ body {
     padding-top: 10px;
     height: 80px;
   }
+  #nav-list {
+      width: 100%;
+      background-color: #f1b050;
+  }
