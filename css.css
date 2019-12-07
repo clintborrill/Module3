@@ -10,6 +10,24 @@ body {
     border-radius: 0;
     border: 0;
 }
-#navbar-foodtruck {
-    font-size: 1.8em;
+.navbar-foodtruck {
+    padding-top: 15px;
+
+}
+.navbar-foodtruck H1 {
+    font-family: serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: .75;
+}
+.navbar-foodtruck a:hover, .navbar-foodtruck a:focus {
+    text-decoration: none;
+}
+.navbar-foodtruck p span {
+    vertical-align: middle;
 }
